@@ -1,5 +1,7 @@
 # Multiple-Checkbox
 
+![telas](https://user-images.githubusercontent.com/78116908/182735339-f775bebc-d73f-454b-a949-f80ea25c7cc6.png)
+
 
 ## Objetivos
 
